@@ -1,0 +1,21 @@
+{
+  "name": "faun",
+  "description": "",
+  "main": "",
+  "authors": [
+    "govorin <govorinviktor@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies":{
+    "normalize-css": "7.0.0",
+    "jQuery": "3.2.1"
+  }
+}
